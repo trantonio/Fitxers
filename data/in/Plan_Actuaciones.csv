@@ -1,0 +1,376 @@
+ETIQUETA;NOMBRE;PRIORIDAD;PROYECTO;TIPO ACTUACIÓN;COORDENADA X;COORDENADA Y;Longitud;Latitud
+EP.16.01;Plaza Alcalde Moreno Torres;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444390,663;4482201,805;-3.6561696;40.4886515
+EP.16.02;Plaza Cívica Hortaleza;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;446072,794;4480036,415;-3.6361381;40.4692556
+EP.17.01;Entorno estación Villaverde Bajo;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;441908,864;4467262,415;-3.6840873;40.3539
+EP.18.02;Pasarela acceso Cerro Almodovar;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;448792,522;4470340,479;-3.6032763;40.3820805
+EP.18.01;Reurbanización Gran Vía del Sureste;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;450068,798;4468358,47;-3.588086;40.3643025
+EP.21.01;Plaza de la Duquesa;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;449613,019;4478585,746;-3.5942637;40.4564094
+EP.21.02;Revitalización plaza Nuestra Señora de Loreto;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;450307,013;4480286,137;-3.5862124;40.4717693
+EP.06.01;Plaza de la Remonta;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440853,766;4479508,208;-3.6976495;40.464142
+EP.06.02;Plaza Leopoldo Luis;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440298,56;4478302,825;-3.7040846;40.4532438
+EP.06.03;Plaza Canal Isabel II;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440525,026;4478821,505;-3.7014625;40.4579325
+EP.08.01;Plaza Teatro de La Vaguada;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439720,358;4481197,83;-3.711178;40.4792813
+EP.08.02;Revitalizar áreas estanciales avenida de La Ilustración;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440069,07;4481378,564;-3.7070814;40.4809346
+EP.08.03;Bulevar de Montecarmelo;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440818,683;4483935,837;-3.6984767;40.5040253
+AI.08.01;Remodelación y ampliación aparcamiento estación Fuencarral;2024-2028;Proyecto Estratégico de Movilidad;Remodelación de Área Intermodal;442150,873;4483781,094;-3.6827407;40.5027252
+EP.10.01;Plaza Aluche;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;435095,814;4470834,344;-3.7646757;40.3855751
+MA.10.01;Mejora accesos intercambiador Aluche;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;435397,865;4470886,779;-3.7611225;40.3860709
+EP.10.02;Accesibilidad Mercado Tirso de Molina;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438403,095;4473832,986;-3.7260036;40.4128393
+EP.10.03;Singularizar Plaza Sisenando;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;437606,208;4473336,617;-3.7353467;40.4083085
+EP.11.01;Entorno biblioteca Ana María Matute;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438891,525;4472082,404;-3.7200792;40.3971052
+EP.12.02;De Marcelo Usera a la plaza del Hidrógeno;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439976,88;4470787,928;-3.7071688;40.3855229
+EP.12.03;Enlace Madrid Río;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440390,304;4471359,049;-3.7023518;40.3906976
+EP.12.04;Gran plaza Orcasur;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440468,97;4468678,636;-3.7011746;40.3665566
+MA.12.01;Mejora accesibilidad Av. Andalucía;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;441037,257;4469074,792;-3.6945182;40.3701657
+CV.10.01;Ampliación Carretera de la Fortuna;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;434501,089;4468601,946;-3.7714524;40.3654183
+CV.17.01;Desdoblamiento Eduardo Barreiros;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;440246,033;4467581,898;-3.7036975;40.3566606
+EP.14.01;"""El Torito""";2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445311,8;4472988,8;-3.6445078;40.405717
+CV.21.01;Ejecución calle Ayerbe;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;451187,375;4480282,131;-3.5758271;40.4717854
+EP.21.03;Buscando el Capricho;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;449523,255;4478293,912;-3.5952991;40.4537748
+EP.11.02;Conexión Río - Parque de San Isidro;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439015,819;4472343,717;-3.7186397;40.3994684
+EP.11.03;Unión Tejares - Favila;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438479,045;4471921,567;-3.7249238;40.395626
+EP.06.04;Revitalización AZCA;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;441214,265;4477834,747;-3.6932426;40.4490924
+EP.19.01;Área comercial Abierto Villajimena;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;448453,866;4473146,78;-3.6074929;40.4073406
+CV.18.01;Acceso Camino del Pozo del tío Raimundo;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;444877,032;4469294,451;-3.6493116;40.3724073
+EP.13.01;Entorno plaza Puerto Rubio (Plaza Vieja) y bulevar;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443363,491;4471976,004;-3.6673774;40.3964629
+EP.13.09;Bajos del Puente de Vallecas;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443215,691;4472165,905;-3.6691358;40.3981636
+CV.13.01;Conexión Puente de la Avenida de la Albufera - Politécnico Vallecas;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;446252,313;4470644,11;-3.6332265;40.3846558
+EP.11.05;Conexión Mercedes Arteaga - Jacinto Verdaguer;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438871,294;4471855,895;-3.7202959;40.3950633
+EP.13.02;Mirador Cerro Tío Pío;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444382,653;4472034,681;-3.6553739;40.3970602
+EP.13.03;Mirador parque Azorín;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444436,472;4471209,452;-3.6546678;40.3896296
+EP.13.04;Mirador parque Payaso Fofó;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444011,043;4470858,345;-3.6596492;40.3864382
+EP.13.05;Área Deportiva C/Laguna;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443115,479;4471296,872;-3.6702389;40.390328
+CV.13.02;Conexión Parque Entrevías - Parque Manzanares;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;442513,114;4468961,073;-3.6771251;40.3692444
+EP.14.02;Polígono A;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444062,921;4473340,609;-3.659256;40.4088033
+EP.14.03;Alrededor de la música;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444223,843;4473654,903;-3.6573872;40.4116454
+CV.17.02;Conexión C/José Perez;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;440028,399;4467246,983;-3.7062288;40.3536278
+CV.17.03;Conexión C/Anoeta;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;440243,786;4466896,687;-3.7036597;40.3504877
+EP.18.04;Montes de Barbanza;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;447382,794;4469799,214;-3.6198388;40.3771165
+EP.12.05;Mercado de Usera;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440011,432;4470966,278;-3.7067785;40.3871321
+EP.13.06;Mirador de Entrevías - Parque Manzanares;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;442289,875;4470116,483;-3.679859;40.3796375
+EP.17.02;Amadeo Fernandez;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440090,859;4466186,642;-3.7053938;40.3440802
+EP.17.03;Revitalización Plaza Mayor;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439924,815;4466504,632;-3.7073786;40.3469329
+EP.17.04;San Aureliano;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439271,605;4466078,557;-3.7150289;40.3430473
+EP.21.04;Peatonalización plaza Mayor de Barajas;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;451040,186;4480492,875;-3.5775797;40.4736753
+EP.21.05;Glorieta Ermita de la Virgen de la Soledad;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;450639,028;4479817,606;-3.5822594;40.4675683
+EP.19.03;Plaza de las Brigadas Internacionales;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;448319,254;4472720,96;-3.6090448;40.4034962
+EP.10.05;Plaza Patricio Martínez;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;434617,785;4472027,758;-3.7704295;40.3962885
+EP.10.06;Plaza metro Batán;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;436135,977;4473242,044;-3.7526633;40.407345
+EP.10.07;Conexión peatonal plaza metro Lucero / Cuña Verde Latina;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;436717,971;4472968,064;-3.7457776;40.4049213
+EP.10.08;Fuente Puerta del Ángel;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438180,235;4473921,344;-3.7286387;40.4136187
+EP.08.04;Supresión de las barreras arquitectónicas junto al CMM Conde de Elda;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439603,673;4480637,227;-3.7125013;40.4742227
+EP.08.05;Mejora accesibilidad Herrera Oría - Colonia Peña Grande;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438937,574;4481410,176;-3.7204331;40.481137
+EP.08.06;Plaza Cieza y de Villafranca de los Barros;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439617,979;4481446,078;-3.7124095;40.4815102
+CV.21.03;Avenida de Logroño - Paseo de La Alameda;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;448781,9;4478315,999;-3.6040437;40.4539285
+CV.21.05;Glorieta Avenida de Logroño - Centro Cultural Gloria Fuertes;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;449735,015;4479056,198;-3.5928622;40.4606548
+EP.14.04;Polígono C;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444157,163;4473354,31;-3.6581466;40.4089331
+EP.15.04;Plaza Platón;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444690,458;4477088,254;-3.6521865;40.4426061
+EP.15.05;Plaza Nalda - Plaza Valvanera;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444383,075;4477955,972;-3.6558868;40.4504024
+EP.15.06;Plaza Virgen del Romero;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444744,891;4476652,794;-3.6515069;40.4386868
+EP.15.07;Plaza metro Quintana;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445039,466;4476089,258;-3.647985;40.4336298
+EP.15.10;Acceso principal Almudena;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445228,379;4475269,569;-3.6456873;40.426258
+EP.15.09;Plaza de la Reverencia;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445574,185;4476409,449;-3.6417084;40.4365494
+EP.15.08;Plaza Cívica Ciudad Lineal;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445836,742;4476575,949;-3.6386272;40.4380664
+EP.09.02;Pasarela Principe - Pío;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438474,228;4475365,456;-3.7253136;40.4266497
+EP.09.01;Pasaje Moncloa;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;437710,869;4476073,11;-3.7343813;40.4329677
+EP.09.03;Bombilla;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438463,912;4475301,498;-3.7254291;40.4260728
+EP.09.04;Teléferico;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438775,445;4475503,685;-3.7217762;40.4279172
+MA.09.05;Conexión Rosa L - Casa C;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;434940,884;4477746,18;-3.7672078;40.4478272
+EP.09.05;Camino del Barrial;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;433187,765;4478964,949;-3.7880077;40.4586671
+CV.09.02;Nudo Zarzuela;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;433535,083;4479490,776;-3.7839668;40.4634318
+EP.13.10;Entorno C.P. Asunción de Vallecas;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443687,972;4472499,736;-3.6636004;40.401203
+EP.13.11;Entorno Sierra Filabres;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443485,264;4472154,962;-3.6659584;40.3980833
+EP.13.12;Calle Puerto Canfranc;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443723,132;4472056,766;-3.6631469;40.3972149
+EP.13.13;Entorno mercado Numancia;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444245,289;4471584,463;-3.656953;40.3929951
+EP.13.14;Entorno mercado Doña Carlota;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443875,226;4472732,67;-3.6614143;40.403314
+EP.09.06;Acceso a la estación del Barrial;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;431571,202;4479755,356;-3.8071576;40.4656557
+EP.09.07;Calle de las Rosas de Aravaca;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;433714,706;4477873,893;-3.7816794;40.4488808
+MA.09.06;Plaza España;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;439569,998;4474996,001;-3.7123616;40.4234018
+EP.09.08;Plaza San Pol;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;438290,686;4475054,255;-3.7274469;40.4238327
+EP.12.01;Puerta Pradolongo;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439914,601;4470102,124;-3.7078378;40.3793403
+MA.15.01;Mirador la Atalaya;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;443694,697;4479165,059;-3.6641115;40.4612482
+EP.15.01;López de Hoyos - Arturo Soria;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444041,404;4478933,921;-3.6600021;40.4591894
+EP.15.02;Ascao;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445676,494;4475710,824;-3.6404426;40.4302624
+EP.08.07;Mejora áreas estanciales en el Barrio de El Pilar;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;439976,501;4480964,891;-3.7081343;40.4772014
+EP.16.03;Deportivo Luis Aragonés;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;446726,578;4479539,918;-3.6283846;40.464825
+EP.16.04;Glorieta de Charalá;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445749,173;4480436,93;-3.6399896;40.4728425
+EP.16.05;Entremares;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;445334,517;4480538,478;-3.6448896;40.4737301
+EP.16.06;Mercadillo Hortaleza;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444809,849;4481156,232;-3.6511326;40.4792604
+EP.16.07;Pinar del Rey - Canal;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444403,985;4479682,672;-3.6557914;40.4659588
+EP.16.08;Glorieta avenida de San Luis;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444126,206;4480224,34;-3.6591155;40.4708198
+EP.13.07;Entorno parque Amós Acero;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443565,904;4471177,133;-3.6649216;40.3892799
+EP.13.15;Conexión Méndez Álvaro - San Diego;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;442638,913;4471529,269;-3.6758747;40.3923889
+CV.11.02;Vía Carpetana - Avenida de los Poblados;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;436291,122;4470708,838;-3.7505816;40.3845368
+EP.10.04;Accesibilidad entres calles Sepulveda y Monsalupe;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;436298,974;4472793,387;-3.7506976;40.4033158
+EP.10.09;Plaza Cívica Lucero;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;436848,775;4472605,908;-3.7442002;40.4016688
+EP.13.08;Plaza Canfranc;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;443901,526;4472287,739;-3.6610652;40.3993076
+EP.14.05;Plaza del Encuentro;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444744,085;4472971,214;-3.6511964;40.405521
+AI.16.01;Fuente de la Mora;2024-2028;Proyecto Estratégico de Movilidad;Remodelación de Área Intermodal;443792,605;4481686,925;-3.6631802;40.483973
+EP.15.11;El Dragón de la Elipa;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444267,875;4474881,761;-3.6569756;40.4227006
+AI.19.01;Intercambiador Vicalvaro;2024-2028;Proyecto Estratégico de Movilidad;Remodelación de Área Intermodal;449389,499;4472582,627;-3.5964218;40.4023158
+MA.19.01;Conexión Valdebernardo con Casco Histórico Vicálvaro;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;447737,049;4472794,827;-3.6159116;40.4041254
+MA.19.02;Puente de Hierro;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;448820,623;4471941,512;-3.6030739;40.3965054
+CV.19.01;Acceso M-40 por Avenida de Daroca;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;447556,454;4473481,09;-3.6180964;40.4102963
+CV.19.02;Acceso M-40 por Camino Viejo de Vicálvaro;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;447127,539;4473137,959;-3.6231227;40.407178
+CV.19.03;Cajón bajo A-3 - Avenida de la Democracia;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;447231,382;4471345,547;-3.6217504;40.3910374
+CV.19.05;Acceso bajo R-3 calle Boyer;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;450459,528;4473052,176;-3.5838492;40.4066102
+MA.14.01;Conexión Norte M-40;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;447043,299;4473030,652;-3.6241065;40.4062059
+CV.08.01;Nuevo acceso a las tablas desde M-40 Sur-Norte;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;443594,947;4484836,668;-3.6657927;40.5123337
+CV.11.03;Conexión M-40 Isla Azul;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;437252,729;4468221,635;-3.7390085;40.3622039
+CV.18.02;Conexión con Vicálvaro;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;448502,578;4470800,979;-3.6067292;40.3862111
+EP.18.05;Ecobulevar;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;446504,879;4469329,228;-3.6301407;40.3728267
+CV.18.03;Conexión Villa de Vallecas - Hospital Infanta Leonor;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;447730,586;4470575,251;-3.6158055;40.3841295
+MA.18.02;Vía de borde con el Ferrocarril. Polígono Industrial;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;446565,826;4470256,973;-3.6295005;40.3811883
+AI.18.01;Estación Villa Vallecas - Santa Eugenia;2024-2028;Proyecto Estratégico de Movilidad;Remodelación de Área Intermodal;448240,733;4470837,096;-3.609817;40.3865203
+EP.06.05;Nuestra Señora del Carmen;2020-2024;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;440428,523;4478965,426;-3.7026142;40.4592221
+CV.21.02;Conexión M-11 con barrio de Timón;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;449986,091;4479962,729;-3.5899725;40.4688366
+CV.21.04;Conexión M-11 con Coronales;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;449561,286;4479971,616;-3.5949839;40.468891
+CV.10.02;Conexión Avenida de los Poblados - Carretera Extremadura;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;434593,064;4471747,727;-3.7706922;40.3937639
+CV.10.03;Conexión Avenida de la Aviación - Carretera Extremadura;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;433164,43;4470445,77;-3.7873877;40.381922
+AI.16.02;Cercanias Valdebebas;2024-2028;Proyecto Estratégico de Movilidad;Remodelación de Área Intermodal;447766,66;4481474,809;-3.6162764;40.4823216
+EP.16.09;Entorno de la ermita de San Blas;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;446087,768;4479584,165;-3.635923;40.4651824
+MA.16.01;C.P. Juan Zarag³eta;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;446549,085;4480249,672;-3.6305378;40.4712074
+MA.16.02;Carretera Estación Hortaleza;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;444900,443;4481361,37;-3.6500817;40.4811144
+MA.20.01;Puente M-14;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;449852,361;4477145,166;-3.5913273;40.4434462
+MA.20.02;Puente calle Guadalajara;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;446895,289;4477839,539;-3.6262524;40.4495179
+AI.20.01;Intercambiador Canillejas;2024-2028;Proyecto Estratégico de Movilidad;Remodelación de Área Intermodal;448607,278;4477821,581;-3.6060629;40.4494637
+CV.20.01;Conexión viaria M-40 sur;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;448176,288;4474319,786;-3.6108597;40.4178906
+CV.16.01;Sanchinarro - M-40;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;445178,137;4481862,44;-3.6468488;40.4856467
+CV.13.03;Conexión Avenida de la Albufera - Calle Sierra Gador;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;446740,181;4470311,578;-3.6274512;40.3816915
+CV.17.06;Acceso a Butarque desde la A-4;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;442713,274;4466668,619;-3.6745618;40.3486063
+CV.17.07;Recuperar Salida 22 de la M-40;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;441650,506;4468281,095;-3.6872226;40.3630589
+CV.17.08;Acceso a Villaverde desde A-42;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;438582,615;4466171,265;-3.7231496;40.3438321
+MA.17.01;Quitar escaleras o compatibilizar con rampas;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;441126,975;4466370,206;-3.6932119;40.3458076
+CV.17.10;Rotonda conexión Rosales - Gran Vía;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;442163,567;4467610,975;-3.6811196;40.3570578
+CV.17.11;Conexión Butarque - San Cristobal;2024-2028;Proyecto Estratégico de Movilidad;Mejora de Conexiones Viarias;441917,507;4465731,498;-3.6838461;40.3401092
+EP.11.04;Plaza de la Emperatriz;2017-2020;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;436221,371;4469515,024;-3.7512838;40.373777
+MA.16.03;Gregorio Sanchez Herráez;2024-2028;Proyecto Estratégico de Espacio Público;Mejora de la Accesibilidad;446020,429;4480947,918;-3.6368333;40.4774634
+EP.16.10;Parque de Doña Guiomar;2024-2028;Proyecto Estratégico de Espacio Público;Remodelación de Espacio Público;444703,289;4481117,174;-3.6523863;40.4789014
+EC.06.01;Bravo Murillo;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico;440574,1954;4478847,775;-3.7008851;40.4581726
+EC.00.01;Avenida de los Poblados;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;437669,786;4469494,6;-3.7342214;40.3737026
+EC.12.01;Marcelo Usera;2020-2024;Proyecto Estratégico de Movilidad;Eje Cívico;439947,7706;4470801,025;-3.7075129;40.3856388
+EC.11.01;General Ricardos;2020-2024;Proyecto Estratégico de Movilidad;Eje Cívico;437028,162;4470518,415;-3.7418801;40.3828774
+EC.08.01;Herrera Oria;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico;439148,1148;4481524,936;-3.7179603;40.4821863
+EC.08.02;Nuestra Señora de Valverde;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico;441727,1027;4483027,275;-3.6876724;40.4959049
+EC.15.03;Arturo Soria;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;444198,0622;4478775,796;-3.6581406;40.4577755
+EC.21.01;Avenida de Logroño;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico;450006,0996;4479216,915;-3.5896777;40.462119
+EC.16.01;Gran Vía de Hortaleza - López de Hoyos;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;445320,135;4479998,236;-3.6450128;40.4688624
+EC.13.01;Avenida de La Albufera;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico;443841,2377;4471742,39;-3.6617275;40.3943907
+EC.15.01;Calle Alcalá;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico;445122,9239;4476091,086;-3.6470013;40.4336518
+EC.14.01;Camino Vinateros - Vicálvaro;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico;445393,19;4473331,532;-3.6435781;40.4088098
+EC.20.01;Calle Alcalá;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico;447323,1334;4477053,494;-3.6211421;40.4424639
+EC.09.01;Avenida Valladolid - Princesa;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico;438455,0923;4475170,018;-3.7255203;40.4248877
+EC.09.02;Calle Antonio Machado;2020-2024;Proyecto Estratégico de Movilidad;Eje Cívico;439026,371;4479634,418;-3.7192148;40.4651469
+EC.10.01;Paseo de Extremadura;2020-2024;Proyecto Estratégico de Movilidad;Eje Cívico;437853,6986;4473764,293;-3.7324719;40.4121796
+EC.17.01;Avenida de Andalucia;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;441129,3379;4467412,028;-3.6932802;40.3551931
+EC.06.02;Francos Rodriguez - Lope de Haro - San Germán;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico;440580,7397;4478757,019;-3.7007994;40.4573555
+EC.15.04;Instituto Libre de Enseñanza;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;446572,4115;4475290,122;-3.6298455;40.4265305
+EC.14.02;Fuente Carrantona;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;446221,075;4472856,941;-3.6337813;40.4045883
+EC.13.02;Avenida Pablo Neruda;2017-2020;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;445124,9098;4470760,806;-3.6465182;40.3856336
+EC.15.02;Marqués de Corbera;2020-2024;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;444625,7673;4475136,625;-3.6527792;40.4250204
+EC.08.03;Monforte de Lemos;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;440127,178;4481156,606;-3.7063748;40.4789394
+EC.16.02;Carretera de Canillas;2020-2024;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;445181,1225;4479392,172;-3.6466001;40.4633935
+EC.12.02;Avenida de Cordoba;2024-2028;Proyecto Estratégico de Movilidad;Eje Cívico Urbano;440860,6134;4470129,182;-3.6966966;40.3796517
+AC.12.07;Marcelo Usera;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;440104,414;4470728,798;-3.7056608;40.3849994
+AC.11.05;General Ricardos - La Oca;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;437272,6205;4471165,69;-3.739064;40.3887267
+AC.15.02;Alcalá - Quintana - Plaza Cívica;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;445467,331;4476234,839;-3.6429533;40.4349694
+AC.06.04;La Remonta;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;440965,3705;4479606,026;-3.6963423;40.4650312
+AC.13.01;Avenida de La Albufera;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;443717,3915;4471842,115;-3.6631956;40.3952807
+AC.21.03;Casco Histórico de Barajas;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;450758,282;4480354,148;-3.5808944;40.4724088
+AC.10.01;Paseo de Extremadura-Puerta del Ángel;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;437837,74;4473819,23;-3.7326653;40.4126734
+AC.08.01;La Vaguada;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;439955,848;4481214,191;-3.7084015;40.4794457
+AC.20.05;Casco Canillejas y entorno;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;448092,8995;4477301,092;-3.612086;40.4447428
+AO.15.04;Esculano-Canal Isabel II;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;446456,9425;4475005,274;-3.6311827;40.423957
+MP.20.01;Las Musas;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;448204,7195;4476372,923;-3.6106919;40.4363883
+MP.14.01;Supermanzanas Moratalaz;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;445268,0475;4472875,259;-3.6450136;40.4046913
+IT.08.01;Adaptación peatonal y ciclista tunel sur Las Tablas;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;442341,5095;4482878,628;-3.6804088;40.4946088
+AO.09.02;Estación del Barrial;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;431721,136;4479629,379;-3.8053755;40.4645332
+MP.09.01;Casco de Aravaca;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;433605,394;4478894,163;-3.7830752;40.4580629
+IT.09.01;Estación a estación;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;433143,301;4479053,937;-3.7885415;40.4594652
+MP.09.02;Argüelles;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;439124,426;4475637,745;-3.7176752;40.4291504
+AO.09.01;El Tranvía de Antonio Machado;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;439093,9895;4479716,846;-3.7184252;40.4658944
+AO.09.10;Ciudad Universitaria;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;438192,0105;4477576,704;-3.7288554;40.4465485
+AO.18.01;Santa Luisa - Hospital I. Leonor;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;447627,429;4470863,742;-3.6170445;40.3867219
+AO.08.01;Las Tablas- Paseo de San Millan de la Cogolla;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;443406,1835;4483642,776;-3.667914;40.5015658
+AO.08.02;Dotacional Norte - Las Tablas;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;442551,7745;4485261,021;-3.6781439;40.5160848
+MP.08.01;Peñagrande;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;438112,1565;4480858,274;-3.730117;40.4761041
+GM.18.01;Actividad Económica Villa de Vallecas;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Gestión de Movilidad;445745,5285;4469636,528;-3.639111;40.375546
+GM.21.02;Actividad Económica entorno Vodafone Barajas;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Gestión de Movilidad;449082,223;4478042,97;-3.6004801;40.4514873
+GM.21.03;Actividad Económica Campo de las Naciones;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Gestión de Movilidad;447728,995;4479243,033;-3.6165368;40.4622141
+GM.20.01;Actividad Económica Julián Camarillo;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Gestión de Movilidad;446872,2595;4476434,539;-3.6264065;40.4368593
+AO.21.01;Norte Colonia Fin de Semana;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;451744,5645;4477938,02;-3.5690763;40.4507007
+AO.19.01;Centro Emisor Vicálvaro;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;447418,742;4473341,673;-3.6197078;40.4090316
+AO.19.02;Almacén Militar de Vicálvaro;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;448694,75;4472787,872;-3.6046253;40.4041222
+AO.18.02;Estación de Vallecas APE 18.04;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;446596,383;4470152,658;-3.6291319;40.3802506
+AO.18.03;Ensanche de Vallecas I;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;447883,42;4469532,422;-3.6139198;40.3747445
+AO.17.01;Paseo Ferroviarios;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;439275,669;4465912,33;-3.7149653;40.3415501
+AO.12.01;Avenida de los Poblados;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;440634,158;4469327,105;-3.6992894;40.3724102
+AO.11.01;Finca Vista Alegre;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;437451,515;4470371,478;-3.7368784;40.3815856
+AO.11.02;Glorieta Valle de Oro;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;437905,4945;4471161,489;-3.7316076;40.3887363
+AO.14.01;El Hoyo;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;445956,656;4472565,915;-3.6368726;40.4019495
+AO.14.02;Pavones;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;446112,7025;4472233,736;-3.6350057;40.3989672
+AO.19.03;Intercambiador - Área Actividad Económica Vicálvaro;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;449589,42;4471688,323;-3.5939952;40.3942714
+AO.21.02;Barrio del Aeropuerto;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;450706,3605;4478062,156;-3.5813289;40.4517581
+AO.16.02;Josefa Herradón;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;444830,649;4479587,31;-3.6507507;40.4651282
+AO.06.01;Zona Industrial Calle Lérida;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;440604,8275;4478528,65;-3.700494;40.4553
+AO.13.01;Méndez Álvaro - Abroñigal;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;442428,974;4468984,045;-3.6781182;40.3694456
+AO.18.04;Camino Vasares;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;448035,319;4470414,467;-3.6122025;40.3827001
+IT.16.02;Paseando Hortaleza - Sendas del agua;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;444546,0835;4479412,918;-3.6540919;40.4635383
+IT.12.01;Del Río a Pradolongo;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;440041,781;4470042,478;-3.706334;40.3788122
+IT.13.01;Acceso parque Tierno Galván;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;443269,0695;4471223,207;-3.6684228;40.3896749
+AG.08.01;Colonia Virgen de Begoña;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;441717,25;4481771,916;-3.6876732;40.4845955
+AG.08.02;Poblado Dirigido Fuencarral;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;441253,65;4482507,409;-3.693211;40.4911884
+AG.08.03;Colonia Lacoma;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;438806,35;4481443,891;-3.7219845;40.481431
+AG.10.01;Barrio Campamento;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;434549,7;4472044,883;-3.7712336;40.3964373
+AG.10.04;Colonia Puerto Chico;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;435715,6;4471010,336;-3.7573919;40.3872086
+AG.10.05;Colonia Batán;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;436323,25;4473225,169;-3.7504547;40.4072073
+AG.11.01;Colonia de Loyola - Virgen de la Inmaculada;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;435832,5;4469390,041;-3.7558516;40.3726213
+AG.11.02;Colonia Experimental;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;438436,229;4471065,16;-3.7253455;40.3879079
+AG.11.03;Pan Bendito;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;437942,35;4469936,883;-3.7310541;40.3777072
+AG.12.01;Barrio de Almendrales;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;440649,4;4470782,217;-3.6992454;40.3855197
+AG.12.02;Colonia Cerrillo;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;439477,05;4470910,598;-3.7130688;40.3865918
+AG.12.03;Colonia Moscardó;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;439862,45;4471235,1;-3.7085591;40.389543
+AG.13.01;Colonia Alto del Arenal;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;445404,35;4471329,569;-3.6432749;40.3907757
+AG.13.02;Avenida Buenos Aires;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444516,75;4470696,1;-3.6536772;40.3850104
+AG.13.03;Entrevías;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;443262,1;4470182,472;-3.6684123;40.3802988
+AG.14.01;Moratalaz Promoción Privada;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444683,95;4473312,697;-3.6519348;40.4085934
+AG.16.01;Poblado Dirigido de Manoteras;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444107;4481166,526;-3.6594252;40.4793062
+AG.17.01;Colonia Experimental Villaverde;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;439648,75;4466294,973;-3.7106092;40.3450242
+AG.18.01;U.V.A. Vallecas;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;448094,25;4470099,912;-3.6114826;40.37987
+AG.18.02;Casco de Vallecas. Colonia Virgen de la Torre;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;447205,6;4469659,933;-3.6219145;40.3758506
+AG.21.01;Barrio del Aeropuerto;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;450621,1;4477948,448;-3.5823255;40.4507287
+MP.19.01;Centro Urbano de Vicálvaro;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;448409,432;4472839,141;-3.6079917;40.4045665
+MP.11.01;Casco de Carabanchel Bajo;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;436938,55;4470303,496;-3.7429144;40.3809345
+MP.11.02;Casco de Carabanchel Alto;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;436265,057;4469527,989;-3.7507705;40.3738972
+MP.16.01;Casco Histórico de Hortaleza;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;445626,0115;4480574,651;-3.6414542;40.4740751
+MP.21.01;Barrio del Areopuerto;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;450600,7105;4477978,231;-3.5825682;40.4509957
+MP.21.02;Casco Histórico de Barajas;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;450962,75;4480570,545;-3.5784992;40.4743704
+MP.17.01;Casco de Villaverde Alto;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;439718,97;4466358,159;-3.7097884;40.3455985
+MP.17.02;Casco de Villaverde Bajo;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;441557,5835;4466936,355;-3.6881939;40.3509381
+MP.12.01;Entorno Calle Marcelo Usera - Dolores Barranco;2017-2020;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;440185,768;4470861,293;-3.7047148;40.3861988
+MP.06.01;Ventilla;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;441384,1945;4480179,002;-3.6914554;40.4702224
+MP.06.02;Bellas Vistas;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;440020,93;4478148,936;-3.707344;40.4518375
+MP.13.01;Numancia;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;443879,245;4471992,847;-3.6613018;40.3966496
+MP.11.03;Barrio de San Isidro;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;437798,8645;4472019,466;-3.7329477;40.3964574
+MP.10.02;Puerta del Ángel;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;437502,011;4473201,096;-3.7365613;40.4070798
+AO.06.02;Paseo de La Dirección;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;440238;4479830,6;-3.7049426;40.4670022
+AG.13.04;Portazgo;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444138,55;4471246,09;-3.658181;40.3899397
+AG.14.02;Polígonos E, I, Z;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444528,2;4473593,364;-3.6537948;40.4111114
+AG.14.03;Moratalaz Promoción Pública;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;446241;4472490,175;-3.6335156;40.4012856
+AO.21.03;Ordenación recintos feriales y depósitos de AENA;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;450872,036;4479683,886;-3.5795006;40.4663775
+IT.14.02;Moratalaz Promoción Privada;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;444697,427;4472973,169;-3.6517464;40.4055356
+AG.18.03;Colonia Urpisa;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;447390,25;4470252,108;-3.6197883;40.381197
+AG.17.02;Colonia Quinta del Pilar;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;441413;4466647,461;-3.6898697;40.3483254
+AG.19.02;Ambroz;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;448371,45;4473223,295;-3.6084704;40.4080248
+AG.21.02;Colonia Juan de la Cierva;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;450421;4480117,415;-3.5848546;40.4702562
+AG.16.03;Poblado Dirigido de Canillas;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444898,05;4479281,951;-3.6499292;40.4623818
+IT.18.01;Del Cerro a la Gavia tejiendo barrios;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;447690,116;4470063,523;-3.6162403;40.3795169
+IT.19.01;Caminando Vicálvaro;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;448835,495;4472363,067;-3.6029325;40.400304
+AG.17.03;San Nicolás - Arechavaleta;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;440869,1;4467006,058;-3.696307;40.3515175
+IT.17.01;Conexión Villaverde - Río;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;440701,4;4466720,185;-3.6982551;40.3489302
+IT.11.01;Parque San Isidro - Madrid Río;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;438833,875;4471844,8;-3.7207356;40.3949606
+IT.11.02;Mercedes Arteaga - Jacinto Verdaguer;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;439034,2765;4471882,39;-3.718378;40.3953139
+IT.21.01;"Acercando ""El Capricho""";2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;450250,7135;4479399,477;-3.586807;40.4637783
+AO.10.01;Colonia de los Olivos;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;437573,5655;4472939,728;-3.7356924;40.4047307
+AO.10.02;Ermita del Santo;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;438251,8025;4472943,086;-3.7277004;40.4048115
+AO.08.03;CLESA;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;441055,51;4482328,455;-3.6955322;40.4895623
+AO.08.04;Dotaciones Públicas en el entorno del cementerio de Fuencarral;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;440630,126;4484387,156;-3.7007442;40.5080775
+AO.13.02;Actividad Económica La Arboleda;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;446717,2625;4470850,451;-3.6277663;40.3865445
+AO.10.03;Meaques;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;434160,6615;4472117,725;-3.775825;40.3970628
+AO.10.04;General Fanjul;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;434018,684;4470485,526;-3.7773288;40.3823482
+AO.10.05;Intercambiador de Aluche;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;435603,245;4470694,852;-3.7586836;40.3843578
+IT.06.04;Marqués de Viana - Paseo de la Dirección;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;440353,954;4479413,783;-3.7035358;40.4632556
+IT.12.02;Tejiendo Usera;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;439883,224;4468963,924;-3.7081001;40.3690845
+IT.10.01;Del Río a la Cuña Verde;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;437639,0525;4473339,556;-3.73496;40.4083374
+IT.10.02;Unión Cuñas Verdes de Latina;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;436945,492;4472401,243;-3.7430404;40.3998324
+MP.06.03;Valdeacederas;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;440772,2095;4479621,742;-3.6986221;40.4651589
+MP.06.04;Berruguete;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;440240,8665;4479065,733;-3.7048367;40.4601121
+IT.13.02;Miradores;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;443739,248;4470491,273;-3.6628187;40.383113
+AG.13.05;Numancia;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;443944,35;4472162,69;-3.6605496;40.398184
+MP.13.02;Barrio San Diego;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;443497,699;4470446,767;-3.6656603;40.3826958
+AO.17.02;Villaverde - Cruce;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;441445,763;4466507,44;-3.6894712;40.3470663
+AO.15.01;Hospital del Aire;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;445453,65;4477345,889;-3.64321;40.4449774
+AO.15.02;La Elipa - Avenida Trece Rosas;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;444922,2045;4474652,998;-3.6492431;40.4206834
+MP.15.01;Pueblo Nuevo - Quintana;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;445030,473;4476026,57;-3.6480857;40.4330644
+MP.15.03;Parque San Juan Bautista;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;444290,2975;4477938,254;-3.6569793;40.4502366
+AG.15.01;Barrio San Pascual;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444746,8;4477111,491;-3.6515243;40.4428192
+AG.15.02;Parque San Juan Bautista;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;444219,75;4477723,147;-3.6577924;40.4482941
+AG.15.03;Poblados Hermanos García Noblejas;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;445991,2;4476108,451;-3.6367664;40.433865
+MP.20.02;Canillejas;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;448185,9185;4477284,533;-3.6109879;40.4445994
+AG.20.01;Barrio Simancas;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;446885,8;4475701,897;-3.6261856;40.4302602
+AG.20.02;Virgen del Camino;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;448476,35;4476896,091;-3.6075318;40.4411182
+AG.20.03;Parcelas D, E, CC, H Gran San Blas;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;447385,05;4475501,404;-3.6202835;40.4284857
+IT.20.03;Recentralizando San Blas;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;447448,973;4475596,84;-3.6195379;40.4293495
+AO.20.02;Plaza Cívica San Blas;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;447658,538;4475433,455;-3.6170539;40.4278909
+AO.20.03;Área Dotacional Camino de Vicálvaro a Canillejas;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;447988,5;4475091,829;-3.6131362;40.4248339
+AO.20.04;Calle Argenta;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;447794,7565;4474943,974;-3.6154079;40.4234898
+AO.20.05;Plaza Alsacia;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;447239,8;4474279,382;-3.6218944;40.4174678
+AG.09.01;Colonia Valdezarza;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;439823,05;4479401,236;-3.7097962;40.4631044
+AG.09.02;Casco de Aravaca;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;433819,6;4478921,806;-3.7805518;40.4583291
+AG.09.03;Colonia Saconia;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;438809,65;4479976,013;-3.7218039;40.4682081
+AG.09.04;Santa Pola;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;437575,1;4475926,389;-3.7359675;40.4316358
+AG.09.05;Colonia San Antonio de la Florida;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;437957,15;4475324,873;-3.7314049;40.4262457
+IT.09.02;Del Teatro al Ferrocarril;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;438741,1845;4475605,089;-3.7221899;40.4288281
+AO.09.04;Del teatro al ferrocarril;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;438387,4;4475193,286;-3.7263205;40.4250923
+IT.09.03;Ribera del Manzanares;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;438160,42;4475315,982;-3.7290079;40.4261807
+AO.09.03;El Nuevo Aravaca;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;433348,2075;4478669,827;-3.7860846;40.4560215
+MP.11.04;Glorieta del Ejercito-Palacio Vista Alegre;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;437272,6205;4471165,69;-3.739064;40.3887267
+AC.14.02;La Lonja - El Torito;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;444970,04;4473056,101;-3.6485411;40.4063007
+AC.19.01;Casco Histórico de Vicálvaro;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;448448,5685;4472810,853;-3.6075282;40.404314
+AC.16.02;Casco Histórico de Hortaleza y entorno;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;445767,796;4480308,914;-3.6397589;40.4716904
+AC.17.01;Casco de Villaverde Alto;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;439694,71;4466242,956;-3.7100632;40.344559
+AC.18.02;Casco Histórico de Vallecas;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Centralidad;446979,551;4470281,796;-3.6246289;40.3814384
+IT.15.02;Re-Emplazar Ciudad Lineal;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;445008,761;4475215,394;-3.6482715;40.4257554
+MP.08.02;Casco Histórico de Fuencarral;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;441619,5725;4482938,441;-3.6889331;40.4950971
+AG.10.02;Barrio de Los Cármenes;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;437118,15;4471900,131;-3.7409564;40.3953313
+AG.10.03;Poblado Dirigido de Caño Roto;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;436773,1;4472212,912;-3.745053;40.3981228
+IT.16.01;Hortaleza Saludable;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;445759,85;4480148,013;-3.6398389;40.4702404
+IT.06.03;Pza. Remonta - Ventilla;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;440992,1515;4479615,469;-3.6960274;40.4651181
+IT.20.01;Medioambiental Ciudad Pegaso-Fin de Semana;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;450803,4135;4477147,009;-3.5801135;40.4435196
+IT.20.02;De Centro a Centro;2017-2020;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;447964,7365;4475442,276;-3.613445;40.4279895
+MP.16.02;Norte de Canillas;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;444932,3385;4479591,202;-3.6495517;40.46517
+AO.11.05;Calle Navalonda;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;439226,6205;4471552,89;-3.7160804;40.3923597
+AO.11.06;Comillas;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;439400,4445;4471436,474;-3.7140214;40.3913236
+AO.17.05;Arroyo Butarque;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;439321,0255;4466844,686;-3.7145199;40.3499526
+AO.17.03;Ferroviario Butarque;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;442254,55;4466095,544;-3.6799111;40.3434121
+AO.17.04;Escuela de Automovilismo;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;441325,273;4465338,738;-3.6907824;40.3365295
+AO.08.05;Poligono B de Fuencarral;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;441962,216;4482288,47;-3.6848303;40.4892659
+AO.08.06;Poligono A de Fuencarral;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;441601,428;4482596,406;-3.6891156;40.4920147
+AO.08.07;Casco Histórico de Fuencarral;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;441914,4195;4482875,57;-3.6854481;40.4945514
+AO.16.05;Deportivo Hortaleza;2017-2020;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;444631,495;4481069,334;-3.653229;40.4784657
+AO.06.03;Finalización de la ordenación de ciertas calles del distrito;2020-2024;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;440475,93;4479331,231;-3.7020893;40.4625207
+AO.06.04;Identidades Tetuán y usos ligados a la nueva economía;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;440759,4275;4479736,033;-3.6987835;40.4661876
+MP.16.03;Las Cárcavas;2020-2024;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;446477,193;4481277,057;-3.6314727;40.480458
+GM.15.01;Zona Empresarial A-2;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Gestión de Movilidad;444425,029;4477509,518;-3.655353;40.4463834
+PA.15.01;Prolongación Almudena;2024-2028;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;446615,7305;4474240,209;-3.6292467;40.4170751
+PA.19.01;Cuña Verde - Anillo Verde;2017-2020;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;448754,4865;4473475,546;-3.6039767;40.410321
+PA.19.02;Cerro Almodovar;2020-2024;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;449109,121;4470628,936;-3.5995697;40.3846985
+PA.14.01;Cuña Verde Moratalaz;2020-2024;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;445868,75;4473796,661;-3.6380132;40.4130311
+AO.06.05;Plaza de Rocío Durcal;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;439736,262;4478765,666;-3.7107594;40.4573726
+IT.06.01;General Perón - Villaamil;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;440645,7525;4478232,685;-3.6999837;40.4526367
+IT.06.02;Parque Francos Rodriguez - Azca/Topete;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;440273,276;4477948,394;-3.7043493;40.450049
+PA.08.01;Parque de Valverde;2024-2028;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;439584,4215;4485580,675;-3.7131997;40.5187535
+MP.11.05;Entorno Camino Viejo Leganés;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;438254,6175;4471185,571;-3.7274968;40.3889792
+MP.11.06;Entorno Antonio López;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;439721,437;4471656,721;-3.7102603;40.393331
+GM.11.01;Polígono Tamames Aguacate;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Gestión de Movilidad;436710,496;4468963,353;-3.7454678;40.3688446
+AG.11.04;Roger de Flor;2017-2020;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;437843,95;4471716,427;-3.7323868;40.3937309
+IT.21.02;Uniendo barrios;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;450013,622;4478888,062;-3.5895631;40.4591569
+PA.18.01;Del río al ensanche de Vallecas;2024-2028;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;447330,0155;4468277,995;-3.6203347;40.363409
+MP.18.01;Casco Histórico de Vallecas;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;447138,9505;4470135,766;-3.622739;40.380133
+MP.09.03;Norte de Sinesio Delgado;2024-2028;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;438581,174;4479563,99;-3.724459;40.4644796
+PA.21.01;Recuperación Arroyo de Rejas;2024-2028;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;453308,898;4477913,728;-3.5506271;40.4505712
+PA.10.01;Protección del cauce del Arroyo de Meaques y Valchico;2020-2024;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;431532,162;4471278,595;-3.8067051;40.3892918
+IT.16.03;Paseando Hortaleza - Distrito Norte;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;445666,5135;4481761,885;-3.6410782;40.484773
+PA.16.02;Arroyo de Valdebebas;2024-2028;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;446357,654;4483531,581;-3.6330738;40.5007601
+IT.20.04;Uniendo Parques;2020-2024;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;446560,15;4477389,453;-3.6301666;40.4454417
+PA.16.01;Parque Forestal Las Cárcavas;2024-2028;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;445825,6235;4481566,612;-3.6391843;40.4830242
+PA.17.01;Acondicionamiento Manzanares Sur;2017-2020;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;443178,775;4466335,198;-3.669051;40.3456345
+IT.17.02;Corredor Verde Uniendo Parques;2024-2028;Proyecto Estratégico de Espacio Público;Itinerarios Estructurantes;440133,2585;4467079,569;-3.7049783;40.3521273
+AG.17.04;Colonia Oroquieta;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;441270,75;4467537,682;-3.6916266;40.356335
+AG.17.05;Colonia Ferroviarios;2024-2028;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;441648,5;4467101,1;-3.6871384;40.3524286
+AO.17.06;Activación del Suelo Industrial;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;439882,3265;4465310,973;-3.7077664;40.3361766
+PA.09.01;Río Manzanares norte;2024-2028;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;435232,863;4483551,993;-3.7643577;40.5001502
+PA.12.01;Parque Lineal Manzanares 2ª fase;2020-2024;Proyecto Estratégico Ambiental;Áreas de Intervención Ambientales;441952,7245;4468839,925;-3.6837144;40.3681142
+AG.20.04;Colonia Ciudad Pegaso;2020-2024;Planes Integrales Territoriales de Barrios Apirus;Apiru de Gestión;449507,15;4477140,764;-3.5953974;40.4433856
+AO.16.06;Banco Central avenida San Luis;2024-2028;Planes Integrales Territoriales de Ordenación y Gestión;Áreas de Oportunidad;444468,2185;4480168,948;-3.6550764;40.4703437
+MP.12.02;El Zofío;2017-2020;Proyecto Estratégico de Movilidad;Áreas de Mejora Peatonal;439415,5295;4470227,828;-3.7137286;40.3804366

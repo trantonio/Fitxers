@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=double\ mitjanaVendes()
+comment0.text=\nDetermina\ la\ mitjana\ aritm\u00E8tica\ de\ les\ vendes.\n\n@return\ La\ mitjana\ aritm\u00E8tica\ de\ les\ vendes\n\n
+comment1.target=int\ comptaRepSuperenMitjanaVendes()
+comment1.text=\nCompta\ els\ representants\ tals\ que\ les\ seves\ vendes\ superen\ la\ mitjana\naritm\u00E8tica\ de\ les\ vendes.\n\n@return\ El\ nombre\ de\ representants\ tals\ que\ les\ seves\ vendes\ superen\ la\nmitjana\ aritm\u00E8tica\ de\ les\ vendes\n\n
+comment2.target=int\ comptaVendesSuperenObjectius()
+comment2.text=\nCompta\ les\ oficines\ que\ han\ superat\ els\ seus\ objectius\ de\ vendes.\n\n@return\ El\ nombre\ d'oficines\ han\ superat\ els\ seus\ objectius\ de\ vendes\n\n
+comment3.params=idFabricant
+comment3.target=double\ calculaValorStock(String)
+comment3.text=\nDetermina\ el\ valor\ de\ l'stock\ dels\ productes\ d'un\ determinat\ fabricant\nidentificat\ per\ IDFABRICANT.\n\n@param\ idFabricant\ L'ID\ del\ fabricant\n@return\ El\ valor\ de\ l'stock\ dels\ productes\ del\ fabricant\n\n
+comment4.target=String\ nomClientMaximaComanda()
+comment4.text=\nDetermina\ el\ nom\ del\ client\ que\ ha\ fet\ la\ comanda\ de\ m\u00E9s\ valor.\n\n@return\ El\ nom\ del\ client\ que\ ha\ fet\ la\ comanda\ de\ m\u00E9s\ valor\n\n
+comment5.target=void\ ordenarRepVentesPerEdad()
+comment5.text=\nGenera\ el\ fitxer\ repventas2.dat\ amb\ els\ registes\ del\ fitxer\ repventes.dat\nordenat\ per\ l'edat\ dels\ representants\ de\ vendes.\n\n
+comment6.target=void\ ordenarRepVentesPerDataIngres()
+comment6.text=\nGenera\ el\ fitxer\ repventas3.dat\ amb\ els\ registes\ del\ fitxer\ repventes.dat\nordenat\ per\ la\ data\ d'ingr\u00E9s\ a\ l'empresa.\n\n
+numComments=7
