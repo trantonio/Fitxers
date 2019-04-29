@@ -20,7 +20,7 @@ public class Main {
 				"data/in/clients.csv",
 				"data/out",
 				"No hi ha causa mediata",
-				',',
+				';',
 				'"');
 
 		
